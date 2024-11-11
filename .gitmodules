@@ -1,0 +1,7 @@
+[submodule "blind-omok-back"]
+	path = blind-omok-back
+	url = https://github.com/TypiDoyun/blind-omok-back.git
+
+[submodule "blind-omok-front"]
+	path = blind-omok-front
+	url = https://github.com/TypiDoyun/blind-omok-front.git
